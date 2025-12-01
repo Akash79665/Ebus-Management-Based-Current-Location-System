@@ -1,0 +1,5 @@
+[2025-11-29T11:38:37.372Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-11-29T11:38:37.578Z] [ACTIVITY] ACTIVITY: USER_LOGIN - User: 692ad7b76cc3cd90e3c28718 - Details: {"email":"admin@bus.com","role":"admin"}
+[2025-11-29T11:38:37.592Z] [RESPONSE] POST /api/auth/login - Status: 200 - Duration: 221ms
+[2025-11-29T11:38:37.604Z] [REQUEST] GET /api/buses - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-11-29T11:38:37.693Z] [RESPONSE] GET /api/buses - Status: 200 - Duration: 90ms
