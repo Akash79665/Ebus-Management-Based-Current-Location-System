@@ -1,0 +1,20 @@
+[2025-12-02T13:38:29.427Z] [REQUEST] GET /main.dbcad3ccffe214db8e8d.hot-update.json - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-02T13:38:29.432Z] [RESPONSE] GET /main.dbcad3ccffe214db8e8d.hot-update.json - Status: 404 - Duration: 6ms
+[2025-12-02T13:39:11.630Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-02T13:39:11.642Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 12ms
+[2025-12-02T13:39:16.030Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-02T13:39:16.033Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 3ms
+[2025-12-02T13:39:27.109Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-02T13:39:27.112Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 4ms
+[2025-12-02T13:39:31.476Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-02T13:39:31.479Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 3ms
+[2025-12-02T13:39:47.926Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-02T13:39:47.929Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 3ms
+[2025-12-02T13:39:58.082Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-02T13:39:58.085Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 3ms
+[2025-12-02T13:40:03.388Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-02T13:40:03.391Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 3ms
+[2025-12-02T13:40:12.655Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-02T13:40:12.659Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 4ms
+[2025-12-02T13:40:17.054Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-02T13:40:17.057Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 3ms
