@@ -1,0 +1,155 @@
+[2025-12-04T06:41:22.184Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:41:22.191Z] [RESPONSE] GET /health - Status: 200 - Duration: 8ms
+[2025-12-04T06:41:22.193Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:41:22.194Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:42:01.546Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:42:01.632Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 86ms
+[2025-12-04T06:42:03.835Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:42:03.924Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 89ms
+[2025-12-04T06:42:05.036Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:42:05.123Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 87ms
+[2025-12-04T06:42:08.898Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:42:08.976Z] [RESPONSE] POST /api/auth/login - Status: 401 - Duration: 78ms
+[2025-12-04T06:45:54.385Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:45:54.633Z] [ACTIVITY] ACTIVITY: USER_LOGIN - User: 69312dff0ce4eb8137e3f3b1 - Details: {"email":"admin@bus.com","role":"admin"}
+[2025-12-04T06:45:54.639Z] [RESPONSE] POST /api/auth/login - Status: 200 - Duration: 255ms
+[2025-12-04T06:45:54.646Z] [REQUEST] GET /api/buses - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:45:54.872Z] [RESPONSE] GET /api/buses - Status: 200 - Duration: 225ms
+[2025-12-04T06:46:28.815Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:46:28.817Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T06:46:28.819Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:46:28.818Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:46:29.675Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:46:29.677Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T06:46:29.679Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:46:29.681Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:46:30.398Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:46:30.399Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:46:30.400Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:46:30.401Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:48:02.590Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:02.591Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:48:05.021Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:05.022Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:48:05.024Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:05.025Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T06:48:06.067Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:06.069Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T06:48:06.070Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:06.071Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:48:06.754Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:06.755Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T06:48:06.756Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:06.757Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T06:48:06.961Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:06.963Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:48:06.964Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:06.965Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T06:48:07.153Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:07.154Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:48:07.155Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:07.156Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:48:07.345Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:07.347Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:48:07.347Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:07.348Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:48:07.574Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:07.575Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T06:48:07.576Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T06:48:07.577Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:44.968Z] [RESPONSE] GET /health - Status: 200 - Duration: 13ms
+[2025-12-04T08:43:44.960Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:44.969Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:44.972Z] [RESPONSE] GET /health - Status: 200 - Duration: 3ms
+[2025-12-04T08:43:49.038Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:49.040Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:49.042Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:49.043Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T08:43:50.382Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:50.383Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T08:43:50.385Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:50.386Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T08:43:51.174Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:51.177Z] [RESPONSE] GET /health - Status: 200 - Duration: 3ms
+[2025-12-04T08:43:51.179Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:51.180Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:51.360Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:51.363Z] [RESPONSE] GET /health - Status: 200 - Duration: 3ms
+[2025-12-04T08:43:51.365Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:51.366Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:51.590Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:51.593Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T08:43:51.594Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:51.596Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:51.770Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:51.770Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:51.772Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:51.773Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T08:43:51.945Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:51.946Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:51.947Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:51.948Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:52.146Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:52.147Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:52.153Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:52.155Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T08:43:52.338Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:52.339Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:52.340Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:52.341Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:52.532Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:52.533Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:52.535Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:52.536Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:52.718Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:52.719Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:52.720Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:52.722Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T08:43:52.929Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:52.930Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:52.932Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:52.933Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:53.129Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:53.131Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:53.132Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:53.133Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:53.308Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:53.309Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:53.310Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:53.311Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:53.521Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:53.522Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:43:53.524Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:43:53.525Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:51:09.619Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:51:09.623Z] [RESPONSE] GET /health - Status: 200 - Duration: 7ms
+[2025-12-04T08:51:09.624Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:51:09.625Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:51:19.612Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:51:19.613Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T08:51:19.614Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:51:19.616Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:51:22.339Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:51:22.342Z] [RESPONSE] GET /health - Status: 200 - Duration: 3ms
+[2025-12-04T08:51:22.344Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:51:22.343Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:51:23.046Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:51:23.047Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T08:51:23.048Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:51:23.050Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T08:51:24.032Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:51:24.033Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:51:24.035Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:51:24.037Z] [RESPONSE] GET /health - Status: 200 - Duration: 2ms
+[2025-12-04T08:53:37.573Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:53:37.574Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
+[2025-12-04T08:54:09.672Z] [REQUEST] POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:54:11.510Z] [ACTIVITY] ACTIVITY: USER_LOGIN - User: 69312dff0ce4eb8137e3f3b1 - Details: {"email":"admin@bus.com","role":"admin"}
+[2025-12-04T08:54:11.522Z] [RESPONSE] POST /api/auth/login - Status: 200 - Duration: 1852ms
+[2025-12-04T08:54:11.587Z] [REQUEST] GET /api/buses - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:54:11.921Z] [RESPONSE] GET /api/buses - Status: 304 - Duration: 335ms
+[2025-12-04T08:55:22.735Z] [REQUEST] GET /api/buses/search?source=Nagpur&destination=Pune - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:55:23.350Z] [ACTIVITY] ACTIVITY: BUS_SEARCH - User: guest - Details: {"source":"Nagpur","destination":"Pune","results":1}
+[2025-12-04T08:55:23.351Z] [RESPONSE] GET /api/buses/search?source=Nagpur&destination=Pune - Status: 200 - Duration: 616ms
+[2025-12-04T08:56:57.569Z] [REQUEST] GET /health - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[2025-12-04T08:56:57.571Z] [RESPONSE] GET /health - Status: 200 - Duration: 1ms
